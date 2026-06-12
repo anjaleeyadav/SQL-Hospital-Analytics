@@ -57,6 +57,6 @@ MetricValue👥 Total Patients2,500+💰 Medical Expenses₹1.2M⏱️ Avg Hospi
 
 ✨ Problem-Solving with Real-World Data
 
-10. Certificate Link: https://github.com/anjaleeyadav/SQL-Hospital-Analytics/blob/main/certificate_SQL%20(1)
+10. Certificate Link: https://github.com/anjaleeyadav/SQL-Hospital-Analytics/blob/main/SQL_Micro_Course_Certificate.png)
 
 11. 
